@@ -6,4 +6,5 @@ __pycache__/
 venv/
 logs/
 .idea/
+.DS_STORE
 *.db
