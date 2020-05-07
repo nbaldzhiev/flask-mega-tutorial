@@ -8,3 +8,9 @@ logs/
 .idea/
 .DS_STORE
 *.db
+
+*.pot
+*.po
+
+.env
+.env.leave
